@@ -231,5 +231,5 @@ function wgetcb(inputURL, cb) {
 // wget(process.argv[2], 'output.html');
 
 module.exports = {
-  wget, wgetcb
+  wget, wgetcb, download
 };
